@@ -1,0 +1,5 @@
+node_modules/
+docs/
+coverage/
+jest.config.js
+jest.setup.ts
